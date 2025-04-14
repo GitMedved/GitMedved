@@ -73,7 +73,7 @@
 
 - Telegram: [@unqle_bear](https://t.me/unqle_bear)
 - WhatsApp: [+7 900 569-89-06](https://wa.me/+79005698906)
-- Email: [Ваш email]
+- Email: [medv.evgenii@gmail.com]
 
 <div align="center">
   <sub>© 2025 Evgenii Medvedev | QA Engineer Portfolio</sub>
