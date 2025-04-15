@@ -1,11 +1,7 @@
-# Евгений Медведев | QA Engineer Portfolio
+# Евгений Медведев | QA Engineer 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/unqle_bear)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/+79005698906)
-
-<div align="center">
-  <img src="assets/img/avatar.jpg" alt="Evgenii Medvedev" width="200" style="border-radius: 50%; border: 3px solid goldenrod"/>
-</div>
 
 ## 👨‍💻 Обо мне
 
@@ -21,18 +17,15 @@
 ## 🛠 Технический стек
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <img src="assets/img/icons/git.svg" alt="Git" width="40" title="Git"/>
-  <img src="assets/img/icons/github.svg" alt="GitHub" width="40" title="GitHub"/>
-  <img src="assets/img/icons/googlechrome.svg" alt="DevTools" width="40" title="Chrome DevTools"/>
-  <img src="assets/img/icons/mysql.svg" alt="MySQL" width="40" title="MySQL"/>
-  <img src="assets/img/icons/sql.svg" alt="SQL" width="40" title="SQL"/>
-  <img src="assets/img/icons/vscode.svg" alt="VS Code" width="40" title="VS Code"/>
-  <img src="assets/img/icons/pycharm.svg" alt="PyCharm" width="40" title="PyCharm"/>
-  <img src="assets/img/icons/python.svg" alt="Python" width="40" title="Python"/>
-  <img src="assets/img/icons/selenium.svg" alt="Selenium" width="40" title="Selenium"/>
-  <img src="assets/img/icons/postman.svg" alt="Postman" width="40" title="Postman"/>
-  <img src="assets/img/icons/swagger.svg" alt="Swagger" width="40" title="Swagger"/>
-  <img src="assets/img/icons/atlassian-jira.svg" alt="Jira" width="40" title="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="40" title="Chrome DevTools"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" title="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" title="Jira"/>
 </div>
 
 ## 🎓 Образование и сертификаты
@@ -48,33 +41,29 @@
 
 ## 🚀 Проекты
 
-### Тестирование eBay
-[![Test Plan](https://img.shields.io/badge/-Test_Plan-blue)](assets/Project%201%20(ebay)/1.%20Test_plan.pdf)
-[![Test Cases](https://img.shields.io/badge/-Test_Cases-green)](assets/Project%201%20(ebay)/2.%20Test_cases.pdf)
-[![Bug Reports](https://img.shields.io/badge/-Bug_Reports-red)](assets/Project%201%20(ebay)/3.%20Bug_reports.pdf)
-[![Test Report](https://img.shields.io/badge/-Test_Report-orange)](assets/Project%201%20(ebay)/4.%20Test_report.pdf)
-[![AutoTests](https://img.shields.io/badge/-AutoTests_(Selenium)-yellow)](assets/Project%201%20(ebay)/Project_1%20(Test%20cases%203).py)
+### [Тестирование eBay](https://github.com/GitMedved/Test-eBay)
 
-Тестирование основных функций сайта eBay.com
+Тестирование функционала eBay.com включая:
+- Составление тест-плана
+- Написание тест-кейсов
+- Регистрацию баг-репортов
+- Автоматизированные тесты на Selenium
 
-### Тестирование API QA Playground
-[![Postman Collection](https://img.shields.io/badge/-Postman_Collection-FF6C37?logo=postman)](assets/Project%202%20(API%20test%20QA%20Playground)/QA%20Playground.postman_collection.json)
-[![Bug Reports](https://img.shields.io/badge/-Bug_Reports-red)](assets/Project%202%20(API%20test%20QA%20Playground)/API_Bug_reports.xlsx)
+### [Тестирование API QA Playground](https://github.com/GitMedved/QA-Playground-API-tests)
 
-Тестирование API на учебной платформе QA Playground
-
-## 📝 Блог
-
-[Почему я решил стать QA-инженером](#)  
-*1 марта 2025*  
-Размышления о выборе профессии и важности обеспечения качества в IT
+Комплексное тестирование API включая:
+- Создание Postman-коллекций
+- Настройку окружений
+- Документирование тестов
+- Анализ результатов
 
 ## 📬 Контакты
 
 - Telegram: [@unqle_bear](https://t.me/unqle_bear)
 - WhatsApp: [+7 900 569-89-06](https://wa.me/+79005698906)
-- Email: [medv.evgenii@gmail.com]
+- Email: medv.evgenii@gmail.com
+- My site: [Portfolio](https://gitmedved.github.io/medvedev.github.io/)
 
 <div align="center">
-  <sub>© 2025 Evgenii Medvedev | QA Engineer Portfolio</sub>
+  <sub>© 2025 Evgenii Medvedev | QA Engineer</sub>
 </div>
